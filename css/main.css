@@ -226,8 +226,12 @@ nav a:hover {
 .about {
     padding-top: 50px
 }
-.about p {
-
+.about h3 {
+  font-size: 1.6em;
+  text-align: center;
+}
+.about span {
+  font-weight: bold;
 }
 .about h2 {
     text-align: center;
@@ -418,8 +422,11 @@ nav li a:hover {
 .burger {
   display: none;
 }
-
 /*end header*/
+.about .text {
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
 .contact ul {
   width: 12%;
@@ -429,7 +436,11 @@ nav li a:hover {
 .contact ul {
   width: 8%;
 } 
+.about .text {
+    padding-left: 200px;
+    padding-right: 200px;
 
+}
 }
 
 
