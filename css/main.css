@@ -226,6 +226,9 @@ nav a:hover {
 .about {
     padding-top: 50px
 }
+.about p {
+
+}
 .about h2 {
     text-align: center;
     padding-top: 30px;
@@ -415,8 +418,9 @@ nav li a:hover {
 .burger {
   display: none;
 }
-    
+
 /*end header*/
+
 .contact ul {
   width: 12%;
 } 
@@ -425,6 +429,7 @@ nav li a:hover {
 .contact ul {
   width: 8%;
 } 
+
 }
 
 
