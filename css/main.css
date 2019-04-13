@@ -226,6 +226,10 @@ nav a:hover {
 .about {
     padding-top: 50px
 }
+.about p {
+	padding-left:25px;
+	padding-right:25px;
+}
 .about h2 {
     text-align: center;
     padding-top: 30px;
